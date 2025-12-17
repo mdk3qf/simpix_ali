@@ -12,6 +12,8 @@ Python starter code
 Usage: simapix_start image1 image2 <output=out.png>
 
 ASSIGNMENT DETAILS:
-* I uploaded the two PNGs (1454×1920) as target.png and source.png
-* I contained all necessary code in the notebook "simpix.ipynb"
-* For these chosen images, the execution time was 45 seconds
+* I uploaded the two pairs of PNGs: (1454×1920) as target1.png and source1.png and (1286×1920) as target2.png and source2.png
+* I contained all necessary code in the python notebook "simpix.ipynb"
+* For the first pair images, the execution time was 21.3 s.
+* For the second pair, the execution time was 21.5 s.
+* The resulting images are in FINAL1.png and FINAL2.png.
